@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
-</div>
+
+[comment]: <> (<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>)
+
+[comment]: <> (</div>)
 
 # FaceNetAuthentication
 
@@ -58,12 +60,15 @@ flutter run
 To run on iOS you need to have a developer account.
 See here https://stackoverflow.com/a/4952845
 
-## Screenshots
-<div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
-</div>
+[comment]: <> (## Screenshots)
 
-## Licence
+[comment]: <> (<div align="center">)
+
+[comment]: <> (<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>)
+
+[comment]: <> (</div>)
+
+[comment]: <> (## Licence)
 
 https://opensource.org/licenses/BSD-3-Clause
 
