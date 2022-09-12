@@ -4,9 +4,8 @@
 
 [comment]: <> (</div>)
 
-# FaceNetAuthentication
+# Object Detection App
 
-Simple face recognition authentication (Sign up + Sign in) written in Flutter using Tensorflow Lite and Google ML Kit library.
 
 ## Stack
 
@@ -27,8 +26,6 @@ TensorFlow Lite plugin provides a dart API for accessing TensorFlow Lite interpr
 
 https://pub.dev/packages/tflite_flutter/install
 
-## Support
-If you're interested in contributing, please let me know emailing me to marcoscarlomagno1@gmail.com
 
 ## Setup
 
@@ -57,8 +54,9 @@ pod install
 flutter run
 ```
 
-To run on iOS you need to have a developer account.
-See here https://stackoverflow.com/a/4952845
+[comment]: <> (To run on iOS you need to have a developer account.)
+
+[comment]: <> (See here https://stackoverflow.com/a/4952845)
 
 [comment]: <> (## Screenshots)
 
