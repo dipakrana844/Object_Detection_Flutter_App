@@ -1,4 +1,4 @@
-<div align="center">
+[comment]: <> (<div align="center">)
 
 [comment]: <> (<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>)
 
@@ -68,7 +68,7 @@ flutter run
 
 [comment]: <> (## Licence)
 
-https://opensource.org/licenses/BSD-3-Clause
+
 
 
 
