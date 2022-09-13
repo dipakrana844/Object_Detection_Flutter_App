@@ -1,8 +1,8 @@
-[comment]: <> (<div align="center">)
+<div align="center">
 
-[comment]: <> (<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>)
+<img src="https://github.com/dipakrana844/Object_Detection_Flutter_App/blob/master/resource/img.png" alt="banner image"/>
 
-[comment]: <> (</div>)
+</div>
 
 # Object Detection App
 
